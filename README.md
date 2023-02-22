@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Blog post 
+
+https://anhlamweb.com/bai-viet-84/setup-eslint-va-prettier-cho-du-an-react-theo-chuan-coding-style-guide-cua-airbnb.html
+
 ## Available Scripts
 
 In the project directory, you can run:
